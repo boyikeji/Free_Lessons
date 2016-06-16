@@ -53,7 +53,7 @@
 
 body内的代码展示：
 
-	
+````html	
 	<h1>我的第一个网页</h1>
 	<h2>选择题</h2>
 	<h3>第一题</h3>
@@ -80,7 +80,7 @@ body内的代码展示：
 		<li>C:<img src="images/5.jpg"></li>
 		<li>D:<img src="images/7.jpg"></li>
 	</ul>
-	
+````
 
 ## Demo02: 常用css样式
 
