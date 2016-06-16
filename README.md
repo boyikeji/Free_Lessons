@@ -88,7 +88,7 @@ body内的代码展示：
 >* [资源](/demo02/)
 
 style样式内的代码展示：
-
+````css
 	h1{
 		color:red;
 	}
@@ -104,3 +104,4 @@ style样式内的代码展示：
 		width:80px;
 		height:80px;
 	}
+````
