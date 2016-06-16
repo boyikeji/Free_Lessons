@@ -49,7 +49,7 @@
 ## Demo01: 常用html标签
 
 >* [展示]()
->* [资源](/demo01/index.html)
+>* [资源](https://github.com/boyikeji/Free_Lessons_01/blob/master/demo01/index.html)
 
 ### 本节介绍html的常用标签：
 1. `<h1>`~`<h6>`为标题标签：标题标签根据标题的程度划分等级，一共六个等级；各标签的区别在于字体大小的不同。
@@ -95,7 +95,7 @@
 ## Demo02: 常用css样式
 
 >* [展示]()
->* [资源](/demo02/)
+>* [资源](https://github.com/boyikeji/Free_Lessons_01/blob/master/demo02/index.html)
 
 style样式内的代码展示：
 ````css
