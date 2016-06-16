@@ -48,7 +48,7 @@
 
 ## Demo01: 常用html标签
 
->* [展示]()
+>* [展示](https://boyikeji.github.io/Free_Lessons_01/demo01/index.html)
 >* [资源](https://github.com/boyikeji/Free_Lessons_01/blob/master/demo01/index.html)
 
 ### 本节介绍html的常用标签：
@@ -94,7 +94,7 @@
 
 ## Demo02: 常用css样式
 
->* [展示]()
+>* [展示](https://boyikeji.github.io/Free_Lessons_01/demo02/index.html)
 >* [资源](https://github.com/boyikeji/Free_Lessons_01/blob/master/demo02/index.html)
 
 style样式内的代码展示：
