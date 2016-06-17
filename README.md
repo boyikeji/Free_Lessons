@@ -67,10 +67,9 @@
 	<h3>第二题</h3>
 	<p>你喜欢哪一张图片？</p>
 	<ul>
-		<li>A:<img src="images/1.jpg"></li>
-		<li>B:<img src="images/3.jpg"></li>
-		<li>C:<img src="images/5.jpg"></li>
-		<li>D:<img src="images/7.jpg"></li>
+		<li>A:<img src="../images/logo1.png"></li>
+		<li>B:<img src="../images/logo2.png"></li>
+		<li>C:<img src="../images/logo3.png"></li>
 	</ul>
 ````
 
