@@ -281,10 +281,9 @@ style样式内的代码展示：
 		<!-- 内联块元素:元素的宽高可以设置，上下边距可以设置，可以与其他元素在一行。
 		    display:inline-block -->
 		<img src="" alt="显示图片">
-		<input >
 		<div>
-			<img src="images/1.jpg" alt="">
-			<img src="images/2.jpg" alt="">
+			<img src="../images/logo1.png" alt="">
+			<img src="../images/logo2.png" alt="">
 		</div>
 		<div class="big-box-inline">
 			<div class="box-inline">asdfasdf</div>
