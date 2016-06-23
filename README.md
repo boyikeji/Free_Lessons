@@ -515,7 +515,7 @@ style样式内的代码展示：
 
 ````
 
-## Demo10: 网页的结构
+## Demo10: 网页结构
 
 >* [展示](https://boyikeji.github.io/Free_Lessons_01/demo10/index.html)
 >* [资源](https://github.com/boyikeji/Free_Lessons_01/blob/master/demo10/index.html)
