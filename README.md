@@ -553,12 +553,12 @@ style样式内的代码展示：
 
 ````
 
-## Demo11: 网页的结构
+## Demo11: 盒模型
 
 >* [展示](https://boyikeji.github.io/Free_Lessons_01/demo11/index.html)
 >* [资源](https://github.com/boyikeji/Free_Lessons_01/blob/master/demo11/index.html)
 
-### 本节介绍网页的结构：
+### 本节介绍盒模型：
 
 代码展示：
 
@@ -570,20 +570,33 @@ style样式内的代码展示：
 		<meta charset="UTF-8">
 		<title>Document</title>
 		<style type="text/css">
-	
+			*{
+				margin:0;
+				padding:0;
+			}
+			.box{
+				width:300px;
+				height:300px;
+				border:1px solid red;
+				float:left;
+			}
+			.box1{
+				padding-top:20px;
+				padding-bottom:20px;
+				margin-right:20px;
+			}
+			.box2{
+				margin-left:50px;
+			}
 		</style>
 	</head>
 	<body>
-		<div id="header">
-			<div class="nav"></div>
-			<div class="banner"></div>
+		<div class="box box1">
+			<h1>内容1</h1>
 		</div>
-		<div id="container">
-			<div class="left-col"></div>
-			<div class="center-col"></div>
-			<div class="right-col"></div>
+		<div class="box box2">
+			<h1>内容2</h1>
 		</div>
-		<div id="footer"></div>
 	</body>
 	</html>
 
