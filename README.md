@@ -188,7 +188,7 @@ style样式内的代码展示：
 	</html>
 ````
 
-## Demo04:元素分类
+## Demo04: 元素分类
 
 >* [展示](https://boyikeji.github.io/Free_Lessons_01/demo04/index.html)
 >* [资源](https://github.com/boyikeji/Free_Lessons_01/blob/master/demo04/index.html)
@@ -305,7 +305,7 @@ style样式内的代码展示：
 	</html>
 ````
 
-## Demo05:元素浮动
+## Demo05: 元素浮动
 
 >* [展示](https://boyikeji.github.io/Free_Lessons_01/demo05/index.html)
 >* [资源](https://github.com/boyikeji/Free_Lessons_01/blob/master/demo05/index.html)
@@ -342,7 +342,7 @@ style样式内的代码展示：
 
 ````
 
-## Demo06:菜单
+## Demo06: 菜单
 
 >* [展示](https://boyikeji.github.io/Free_Lessons_01/demo06/index.html)
 >* [资源](https://github.com/boyikeji/Free_Lessons_01/blob/master/demo06/index.html)
@@ -383,7 +383,7 @@ style样式内的代码展示：
 
 ````
 
-## Demo07:div浮动
+## Demo07: div浮动
 
 >* [展示](https://boyikeji.github.io/Free_Lessons_01/demo07/index.html)
 >* [资源](https://github.com/boyikeji/Free_Lessons_01/blob/master/demo07/index.html)
@@ -437,7 +437,7 @@ style样式内的代码展示：
 
 ````
 
-## Demo08:css入门
+## Demo08: css入门
 
 >* [展示](https://boyikeji.github.io/Free_Lessons_01/demo08/index.html)
 >* [资源](https://github.com/boyikeji/Free_Lessons_01/blob/master/demo08/index.html)
@@ -469,7 +469,7 @@ style样式内的代码展示：
 
 ````
 
-## Demo09:伪类选择器
+## Demo09: 伪类选择器
 
 >* [展示](https://boyikeji.github.io/Free_Lessons_01/demo09/index.html)
 >* [资源](https://github.com/boyikeji/Free_Lessons_01/blob/master/demo09/index.html)
@@ -516,7 +516,7 @@ style样式内的代码展示：
 
 ````
 
-## Demo10:网页的结构
+## Demo10: 网页的结构
 
 >* [展示](https://boyikeji.github.io/Free_Lessons_01/demo10/index.html)
 >* [资源](https://github.com/boyikeji/Free_Lessons_01/blob/master/demo10/index.html)
@@ -554,7 +554,7 @@ style样式内的代码展示：
 
 ````
 
-## Demo11:网页的结构
+## Demo11: 网页的结构
 
 >* [展示](https://boyikeji.github.io/Free_Lessons_01/demo11/index.html)
 >* [资源](https://github.com/boyikeji/Free_Lessons_01/blob/master/demo11/index.html)
@@ -590,7 +590,7 @@ style样式内的代码展示：
 
 ````
 
-## Demo12:居中
+## Demo12: 居中
 
 >* [展示](https://boyikeji.github.io/Free_Lessons_01/demo12/index.html)
 >* [资源](https://github.com/boyikeji/Free_Lessons_01/blob/master/demo12/index.html)
@@ -674,7 +674,7 @@ style样式内的代码展示：
 
 ````
 
-## Demo13:自适应
+## Demo13: 自适应
 
 >* [展示](https://boyikeji.github.io/Free_Lessons_01/demo13/index.html)
 >* [资源](https://github.com/boyikeji/Free_Lessons_01/blob/master/demo13/index.html)
@@ -720,7 +720,7 @@ style样式内的代码展示：
 
 ````
 
-## Demo14:定位
+## Demo14: 定位
 
 ### 本节介绍定位：
 
