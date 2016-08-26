@@ -101,23 +101,25 @@
 
 	`{height:80px;}`
 
-style样式内的代码展示：
-````css
-	h1{
-		color:red;
-	}
-	h2{
-		background-color: yellow;
-	}
-	.question{
-		background-color: green;
-		color:white;
-		font-size: 30px;
-	}
-	#first-img{
-		width:80px;
-		height:80px;
-	}
+### 代码展示：
+````
+	<style>
+		h1{
+			color:red;
+		}
+		h2{
+			background-color: yellow;
+		}
+		.question{
+			background-color: green;
+			color:white;
+			font-size: 30px;
+		}
+		#first-img{
+			width:80px;
+			height:80px;
+		}
+	</style>
 ````
 
 ## Demo03: css语法
